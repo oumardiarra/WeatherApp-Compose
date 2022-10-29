@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeatherAppCompose</string>
+    <string name="title_activity_weather_infos_list_screen">WeatherInfosListScreen</string>
 </resources>
